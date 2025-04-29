@@ -1,4 +1,3 @@
-Here is a README file you can use for your GitHub repository:
 
 ```markdown
 # Email Encryption and Decryption App
